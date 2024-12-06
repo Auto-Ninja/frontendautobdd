@@ -5,7 +5,6 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.calc.Calculator;
 import org.testng.Assert;
-import org.testng.AssertJUnit;
 
 public class CalculatorStepDefinitions {
     private Calculator calculator;
