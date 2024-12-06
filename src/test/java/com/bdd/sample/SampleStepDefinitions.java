@@ -1,9 +1,7 @@
 package com.bdd.sample;
-
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-
 public class SampleStepDefinitions {
     @Given("I have a sample step")
     public void i_have_a_sample_step() {
